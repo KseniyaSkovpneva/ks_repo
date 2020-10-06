@@ -18,3 +18,5 @@ Disconnect and self destruct one bullet at a time?
 What's your rush now, everyone will have his day to die
 
 add text to feature
+
+and more text
